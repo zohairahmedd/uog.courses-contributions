@@ -1,2 +1,3 @@
-# uog.courses-contributons
-All contributions towards uoguelph.courses are linked inside of this repository.
+## All uoguelph.courses Contributions
+
+[Drop Rates](https://github.com/zohairahmedd/uog-course-table)
